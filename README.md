@@ -10,11 +10,6 @@ This project demonstrates a convolutional neural network (CNN) for image classif
 - Trains the model and evaluates its performance on test data.
 - Prints the test accuracy.
 
-## Requirements
-- Python 3.x
-- TensorFlow
-- Matplotlib
-
 ## Installation
 1. Clone the repository:
     ```bash
