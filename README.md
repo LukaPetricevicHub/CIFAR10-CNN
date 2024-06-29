@@ -27,8 +27,6 @@ This project demonstrates a convolutional neural network (CNN) for image classif
     python cifar10_classification.py
     ```
     
-## Results
-After training for 10 epochs, the model's test accuracy is printed out, which indicates its performance on the unseen test data.
 
 ## Acknowledgments
 This project uses the CIFAR-10 dataset provided by the [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/cifar10).
