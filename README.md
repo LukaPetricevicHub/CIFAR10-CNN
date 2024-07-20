@@ -13,7 +13,7 @@ This project demonstrates a convolutional neural network (CNN) for image classif
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/LukaPetricevicHub/YourRepository.git
+    git clone https://github.com/LukaPetricevicHub/CIFAR10-CNN.git
     cd YourRepository
     ```
 2. Install the required packages:
@@ -29,4 +29,4 @@ This project demonstrates a convolutional neural network (CNN) for image classif
     
 
 ## Acknowledgments
-This project uses the CIFAR-10 dataset provided by the [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/cifar10).
+This project uses the CIFAR-10 dataset provided by the (https://www.tensorflow.org/datasets/catalog/cifar10).
