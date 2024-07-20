@@ -14,7 +14,7 @@ This project demonstrates a convolutional neural network (CNN) for image classif
 1. Clone the repository:
     ```bash
     git clone https://github.com/LukaPetricevicHub/CIFAR10-CNN.git
-    cd YourRepository
+    cd CIFAR10-CNN
     ```
 2. Install the required packages:
     ```bash
